@@ -6,4 +6,4 @@ title = 'MyFirstBlog'
 
 ### Hello World
 
-### 123456
+### 0000
